@@ -46,6 +46,10 @@ body {
 	font: bold;
 	line-height: 150%;
 }
+.notalink {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
 table, th, td {
     border: 3px solid black;
 	text-align: center;
