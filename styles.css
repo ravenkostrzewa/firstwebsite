@@ -1,0 +1,82 @@
+﻿h1 {
+	color: yellow;
+	margin-bottom: 30px;
+	margin-top: 20px;
+}
+.boldClass {
+	font-weight: bold;
+}
+#bigID {
+	font-size: 24px;
+}
+image {
+	border: 3px solid black;
+	margin-top:10px;
+	margin-left:10px;
+}
+ul{
+	list-style-type: none;
+	list-style: none;
+}
+li a{
+	background-color: blue;
+	color: yellow;
+	font: bold;
+	list-style-type: none;
+	list-style: none;
+	text-decoration:underline;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 24;
+	line-height: 150%;
+} 
+body {
+    background-color: blue;
+	border: 3px solid red;
+	border-width: 10px;
+    padding: 15px;
+	padding-right: 20px;
+	padding-left: 20px;
+    margin-top: 20px;
+	margin-bottom: 20px;
+	color: white;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 48;
+	font: bold;
+	line-height: 150%;
+}
+table, th, td {
+    border: 3px solid black;
+	text-align: center;
+	border-collapse: collapse;
+	background-color: white;
+	font-size: 24; 
+	color: black;
+	margin-bottom: 20px;
+	padding: 5px;
+}
+.boxed{
+	color: white;
+	font: boldClass;
+	font-size: 24;
+	text-decoration: none;
+	text-indent: 10px;
+	line-height: 55px;
+	margin-left: 15px;
+}
+a:clicked {
+	color: white;
+	background-color: blue;
+	text-decoration: none;
+}
+a:active {
+	color: yellow;
+	background-color: blue;
+	text-decoration: underline;
+}	
+a:hover {
+	color: red;
+	background-color: blue;
+	text-decoration: underline;
+}
